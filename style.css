@@ -1,3 +1,18 @@
-* {
-    background-color: aquamarine;
+*{
+    background-color: rgb(232, 235, 240);
+}
+h1{
+    color:rgb(230, 88, 12);
+}
+h2{
+    color:rgb(230, 88, 12);
+}
+h3{
+    color:rgb(230, 88, 12);
+}
+p{
+    color:rgb(230, 88, 12);  
+}
+.list-textcolor{
+    color:rgb(230, 88, 12);
 }
